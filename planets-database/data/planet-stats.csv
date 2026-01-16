@@ -1,0 +1,6 @@
+Name,Distance_from_Sun_AU,Diameter_km,Number_of_Moons
+Mercury, 0.39,4879,0
+Venus, 0.72,12104,0
+Earth, 1.0,12756,1
+Jupiter, 5.2,139820,95
+Saturn, 9.58,116460,83
